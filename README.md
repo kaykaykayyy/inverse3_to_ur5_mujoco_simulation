@@ -6,12 +6,9 @@ The `haply_to_mujoco_ur5` project implements a teleoperation system that allows 
 
 ## Video Demo
 
-<div align="center">
-  <video src="https://raw.githubusercontent.com/kaykaykayyy/inverse3_to_ur5_mujoco_simulation/main/teleop_go_down.mp4" width="100%" controls preload="metadata">
-    Your browser does not support the video tag.
-  </video>
-</div>
+Here is a demo of my project: 
 
+https://raw.githubusercontent.com/kaykaykayyy/inverse3_to_ur5_mujoco_simulation/main/teleop_go_down.mp4
 
 ## Features
 
