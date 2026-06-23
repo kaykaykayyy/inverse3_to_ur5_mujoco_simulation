@@ -8,7 +8,7 @@ The `haply_to_mujoco_ur5` project implements a teleoperation system that allows 
 
 Here is a demo of my project: 
 
-https://raw.githubusercontent.com/kaykaykayyy/inverse3_to_ur5_mujoco_simulation/main/teleop_go_down.mp4
+[![Watch the UR5 MuJoCo Simulation](https://raw.githubusercontent.com/kaykaykayyy/inverse3_to_ur5_mujoco_simulation/main/thumbnail.jpg)](https://raw.githubusercontent.com/kaykaykayyy/inverse3_to_ur5_mujoco_simulation/main/teleop_go_down.mp4)
 
 ## Features
 
